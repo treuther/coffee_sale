@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/coffee_sale/cli"
+
+CoffeeSale::CLI.new.call
