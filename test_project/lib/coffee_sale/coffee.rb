@@ -1,0 +1,5 @@
+class CoffeeSale::Coffee
+  
+  
+  
+end

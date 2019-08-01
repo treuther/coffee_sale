@@ -1,0 +1,5 @@
+class CoffeeSale::Scraper
+  
+  
+  
+end
